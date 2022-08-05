@@ -1,2 +1,3 @@
-# pytorch
- A collection of notebooks written during a PyTorch tutorial.
+# PyTorch
+
+A collection of notebooks written during a PyTorch tutorial.
